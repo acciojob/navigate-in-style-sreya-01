@@ -24,15 +24,3 @@ nav {
   margin: 0 1rem;
 }
 
-.navbar li a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.2rem;
-  padding: 0.5rem 1rem;
-  transition: background-color 0.3s ease;
-}
-
-.navbar li a:hover {
-  background-color: #555;
-  border-radius: 5px;
-}
