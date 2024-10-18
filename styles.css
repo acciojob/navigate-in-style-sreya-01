@@ -11,8 +11,7 @@ ul {
   margin: 0;
 }
 
-li {
-  display: inline;           /* Display list items inline (horizontally) */
+li {         
   margin-right: 1rem;        /* Add margin-right between list items */
 }
 
